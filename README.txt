@@ -5,5 +5,5 @@ The folder contains the following files:
    - Experiments Average:      This file contains the average results of the simulations run,
 			       that were analyzed in the research and from which the conclusions presented are drawn. 
 			       conclusions presented.
-   - Dataset:                  This file contains a data set for the execution of the simulation and the associated system. 
+   - Dataset:                  This file contains a data set for the execution of the simulation and the 
 			       associated system.
